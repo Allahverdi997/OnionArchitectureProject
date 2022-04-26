@@ -1,0 +1,17 @@
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMPeoject.Infrastructure.deps.json
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMPeoject.Infrastructure.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\ref\RusMPeoject.Infrastructure.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMPeoject.Infrastructure.pdb
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMProject.Domain.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMProjectApplication.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMProject.Domain.pdb
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\bin\Debug\net5.0\RusMProjectApplication.pdb
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.csproj.CopyComplete
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\ref\RusMPeoject.Infrastructure.dll
+C:\Users\Allahverdi\Desktop\MEProjects\RusMProjectDemo\Three\RusMProject\RusMPeoject.Infrastructure\obj\Debug\net5.0\RusMPeoject.Infrastructure.pdb

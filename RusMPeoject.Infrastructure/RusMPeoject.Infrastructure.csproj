@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\core\RusMProject.Domain\RusMProject.Domain.csproj" />
+    <ProjectReference Include="..\src\core\RusMProjectApplication\RusMProjectApplication.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Statics\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.1" />
+  </ItemGroup>
+
+</Project>
